@@ -1,4 +1,4 @@
-node 'besnbir.local' {
+node 'besnbirk.local' {
   class {'iarepo': }->
   class{ 'iabase': }
 }
